@@ -1,5 +1,10 @@
 # Volatility Windows Analysis Script
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Volatility 3](https://img.shields.io/badge/Volatility-3-blue)](https://github.com/volatilityfoundation/volatility3)
+[![Volatility 2](https://img.shields.io/badge/Volatility-2-green)](https://github.com/volatilityfoundation/volatility)
+[![GitHub](https://img.shields.io/badge/GitHub-gl0bal01-181717?logo=github&logoColor=white)](https://github.com/gl0bal01)
+
 This script is designed to simplify the process of forensic investigation on Windows memory dumps using Volatility 3 and Volatility 2. It provides a quick and easy way to get a comprehensive first glance at a memory dump, running multiple plugins and organizing the output for easy analysis.
 
 ## Features
